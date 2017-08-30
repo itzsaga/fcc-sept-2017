@@ -8,8 +8,6 @@ We're going to use `fetch` to get data from GitHub, fork a repository, and post 
 
 Using `fetch` to get remote data after using `XMLHttpRequest` is a little like riding in a convertible with the top down after spending your whole life walking like a sucker.
 
-![mean girls](http://i.giphy.com/4CP58gxwbBy2Q.gif)
-
 Getting data from the GitHub API with `fetch` is super simple. If we're just trying to `GET` some JSON, we can do this:
 
 ```js
@@ -90,12 +88,8 @@ You'll need to read the GitHub API documentation to see how each function works.
 
 5. Load it up and watch it work!
 
-![That's so fetch](http://missmonet.net/wp-content/uploads/2014/04/so-fetch-gretchen-xmas-gif.gif)
-
 ## Resources
 - [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [GitHub API](https://developer.github.com/v3/)
 
 [GitHub OAuth]: https://developer.github.com/v3/oauth_authorizations/
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/javascript-fetch-lab' title='JavaScript Fetch Lab'>Javascript Fetch Lab</a> on Learn.co and start learning to code for free.</p>
