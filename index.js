@@ -1,6 +1,6 @@
 const userName = ''
 const baseApi = 'https://api.github.com/'
-const fork = `${userName}/javascript-fetch-lab`
+const fork = `${userName}/fcc-sept-2017`
 
 //Issue and Repo objects and templates
 
@@ -60,7 +60,7 @@ function displayIssue(issue) {
 
 
 function forkRepo() {
-  const repo = 'learn-co-curriculum/javascript-fetch-lab'
+  const repo = 'itzsaga/fcc-sept-2017'
 
   fetch(`${baseApi}repos/${repo}/forks`, {
     method: 'post',
