@@ -11,7 +11,7 @@ function showResults(json) {
 }
 
 function forkRepo() {
-  const repo = 'learn-co-curriculum/javascript-fetch-lab'
+  const repo = 'itzsaga/fcc-sept-2017'
   //use fetch to fork it!
 }
 
